@@ -1,0 +1,29 @@
+# Core Discord library
+discord.py==2.5.2
+
+# Google AI (Gemini)
+google-generativeai==0.8.4
+
+# Environment variable loading
+python-dotenv==1.0.1
+
+# Embeddings and AI pipelines
+sentence-transformers==4.1.0
+transformers==4.51.3
+torch==2.6.0 # Dependency for sentence-transformers and transformers
+huggingface-hub==0.30.2 # Dependency for downloading models
+tokenizers==0.21.1 # Dependency for transformers
+safetensors==0.5.3 # Dependency for transformers
+
+# Web Search
+duckduckgo_search==8.0.1
+
+# File Parsing
+PyPDF2==3.0.1
+python-docx==1.1.2 # For .docx files
+
+# Numerical Operations (often dependency of ML libs)
+numpy==1.23.3
+
+# Async HTTP requests (used by imagine, dependency of discord.py)
+aiohttp==3.11.14
