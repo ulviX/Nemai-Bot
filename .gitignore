@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / build directories
+.dist/
+build/
+dist/
+*.egg-info/
+wheels/
+*.egg
+
+# IDE cache/metadata (PyCharm example)
+.idea/
+
+# Temporary files created by some tools or editors
+*~
+*.swp
+*.swo
