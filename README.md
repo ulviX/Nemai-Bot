@@ -163,7 +163,10 @@ venv/Scripts/activate
 ```
 pip install -r requirements.txt
 ```
-
+Fallback method to download required libraries
+```
+pip install discord.py google-generativeai numpy sentence-transformers transformers torch tensorflow flax tensor torchvision torchaudio duckduckgo-search aiohttp PyPDF2 python-docx python-dotenv
+```
 ## ⚙️ Configuration
 
 The `.env` file stores credentials and settings:

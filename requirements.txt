@@ -8,9 +8,13 @@ google-generativeai       # For Gemini models (chat, persona, vision, debate)
 numpy                     # Numerical operations, required by AI/ML libraries
 sentence-transformers     # For generating text embeddings (database similarity search, feedback context)
 transformers              # For Hugging Face pipelines (sentiment analysis)
-torch                     # Backend for transformers/sentence-transformers (usually needed).
-tensorflow                            # Uncomment if you don't have it installed system-wide or via other means.
-flax                          # Alternatively, you might need 'tensorflow' or 'flax' depending on your setup.
+
+torch                     
+tensorflow                        
+flax
+tensor
+torchvision
+torchaudio
 
 # --- Web Interaction & Search ---
 duckduckgo-search         # For web search (/search, /news, /factcheck, /explain_like_im, /recipe, /summarize url)
