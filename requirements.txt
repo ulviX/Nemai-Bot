@@ -1,30 +1,24 @@
-# START OF requirements.txt
+# START requirements.txt
 
 # --- Core Discord Functionality ---
-discord.py>=2.0.0         # For Discord API interaction, UI views, commands
+discord.py>=2.3.0         # Or your desired minimum version
 
 # --- AI & Machine Learning ---
-google-generativeai       # For Gemini models (chat, persona, vision, debate)
-numpy                     # Numerical operations, required by AI/ML libraries
-sentence-transformers     # For generating text embeddings (database similarity search, feedback context)
-transformers              # For Hugging Face pipelines (sentiment analysis)
-
-torch                     
-tensorflow                        
-flax
-tensor
-torchvision
-torchaudio
+google-generativeai       # For Gemini models
+transformers              # For Hugging Face pipelines (sentiment) and underlying models
+sentence-transformers     # For text embeddings (similarity search)
+torch                     # Primary ML framework backend (recommended for HF transformers/sentence-transformers)
+numpy                     # Numerical operations (required by many ML/data libraries)
 
 # --- Web Interaction & Search ---
-duckduckgo-search         # For web search (/search, /news, /factcheck, /explain_like_im, /recipe, /summarize url)
-aiohttp                   # Asynchronous HTTP requests (used for /imagine command)
+duckduckgo-search         # For web/news search features
+aiohttp                   # Asynchronous HTTP requests (used by discord.py and /imagine)
 
 # --- File Handling ---
-PyPDF2                    # For reading text from PDF files (/analyze_file, /doc_assist)
-python-docx               # For reading text from DOCX files (/analyze_file, /doc_assist)
+PyPDF2                    # For reading text from PDF files
+python-docx               # For reading text from DOCX files
 
 # --- Configuration & Utilities ---
-python-dotenv             # For loading environment variables from a .env file (API keys)
+python-dotenv             # For loading environment variables from a .env file
 
-# END OF requirements.txt
+# END requirements.txt
