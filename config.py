@@ -67,9 +67,9 @@ STORY_TIMEOUT_MINUTES = 60 # Minutes after which an inactive story session is co
 # --- AI Model Configuration ---
 # Names of models used for embeddings and generation.
 EMBEDDING_MODEL_NAME = 'all-MiniLM-L6-v2' # Sentence Transformer model for embeddings
-MODEL_CHAT_NAME = 'gemini-1.5-flash' # Gemini model for general chat, summaries, etc.
-MODEL_PERSONA_NAME = 'gemini-1.5-flash' # Gemini model for custom personas and built-in ones like Sherlock
-MODEL_VISION_NAME = 'gemini-1.5-flash' # Gemini model supporting vision (image analysis)
+MODEL_CHAT_NAME = 'gemini-2.0-flash' # Gemini model for general chat, summaries, etc.
+MODEL_PERSONA_NAME = 'gemini-2.0-flash' # Gemini model for custom personas and built-in ones like Sherlock
+MODEL_VISION_NAME = 'gemini-2.0-flash' # Gemini model supporting vision (image analysis)
 # Generation configurations for different Gemini models (e.g., temperature controls creativity).
 MODEL_CONFIG_FLASH = {"temperature": 0.8}
 MODEL_CONFIG_PERSONA = {"temperature": 1.25} # Higher temperature for more creative persona responses
