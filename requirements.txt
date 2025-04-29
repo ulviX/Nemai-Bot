@@ -1,29 +1,26 @@
-# Core Discord library
-discord.py==2.5.2
+# START OF requirements.txt
 
-# Google AI (Gemini)
-google-generativeai==0.8.4
+# --- Core Discord Functionality ---
+discord.py>=2.0.0         # For Discord API interaction, UI views, commands
 
-# Environment variable loading
-python-dotenv==1.0.1
+# --- AI & Machine Learning ---
+google-generativeai       # For Gemini models (chat, persona, vision, debate)
+numpy                     # Numerical operations, required by AI/ML libraries
+sentence-transformers     # For generating text embeddings (database similarity search, feedback context)
+transformers              # For Hugging Face pipelines (sentiment analysis)
+torch                     # Backend for transformers/sentence-transformers (usually needed).
+tensorflow                            # Uncomment if you don't have it installed system-wide or via other means.
+flax                          # Alternatively, you might need 'tensorflow' or 'flax' depending on your setup.
 
-# Embeddings and AI pipelines
-sentence-transformers==4.1.0
-transformers==4.51.3
-torch==2.6.0 # Dependency for sentence-transformers and transformers
-huggingface-hub==0.30.2 # Dependency for downloading models
-tokenizers==0.21.1 # Dependency for transformers
-safetensors==0.5.3 # Dependency for transformers
+# --- Web Interaction & Search ---
+duckduckgo-search         # For web search (/search, /news, /factcheck, /explain_like_im, /recipe, /summarize url)
+aiohttp                   # Asynchronous HTTP requests (used for /imagine command)
 
-# Web Search
-duckduckgo_search==8.0.1
+# --- File Handling ---
+PyPDF2                    # For reading text from PDF files (/analyze_file, /doc_assist)
+python-docx               # For reading text from DOCX files (/analyze_file, /doc_assist)
 
-# File Parsing
-PyPDF2==3.0.1
-python-docx==1.1.2 # For .docx files
+# --- Configuration & Utilities ---
+python-dotenv             # For loading environment variables from a .env file (API keys)
 
-# Numerical Operations (often dependency of ML libs)
-numpy==1.23.3
-
-# Async HTTP requests (used by imagine, dependency of discord.py)
-aiohttp==3.11.14
+# END OF requirements.txt
