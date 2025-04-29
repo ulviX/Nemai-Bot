@@ -1,0 +1,356 @@
+2025-04-27 20:16:09,204 - nemai_main - INFO - Gemini AI models configured successfully.
+2025-04-27 20:16:10,011 - nemai_main - INFO - Transformers sentiment analysis pipeline initialized successfully.
+2025-04-27 20:16:10,012 - nemai_main - INFO - Reusing Sentence Transformer model from database module.
+2025-04-27 20:16:10,060 - database - INFO - Database tables setup or verified complete
+2025-04-27 20:16:10,061 - database - INFO - Successfully connected to database: nemai_bot.db
+2025-04-27 20:16:10,061 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-27 20:16:10,062 - nemai_main - INFO - Starting bot...
+2025-04-27 20:16:13,419 - nemai_main - INFO - Logged in as Nemai#8548 (ID: 1353439140179607632)
+2025-04-27 20:16:13,420 - nemai_main - INFO - ------
+2025-04-27 20:16:13,429 - nemai_main - INFO - Commands registered successfully.
+2025-04-27 20:16:13,430 - nemai_main - INFO - Periodic maintenance task scheduled.
+2025-04-27 20:16:13,431 - nemai_main - INFO - Registered persistent FeedbackView.
+2025-04-27 20:16:13,433 - nemai_main - INFO - Periodic maintenance task started.
+2025-04-27 20:16:13,816 - nemai_main - INFO - Synced 19 global application commands.
+2025-04-27 20:16:13,817 - nemai_main - INFO - Feedback system enabled. New messages will have feedback buttons.
+2025-04-27 20:18:07,078 - database - INFO - Created new 'choose_your_own' story session 1 for user 1345047131278278827 (Genre: sci-fi).
+2025-04-27 20:18:56,857 - nemai_main - INFO - Gemini AI models configured successfully.
+2025-04-27 20:18:59,361 - nemai_main - INFO - Transformers sentiment analysis pipeline initialized successfully.
+2025-04-27 20:18:59,361 - nemai_main - INFO - Reusing Sentence Transformer model from database module.
+2025-04-27 20:18:59,404 - database - INFO - Database tables setup or verified complete
+2025-04-27 20:18:59,404 - database - INFO - Successfully connected to database: nemai_bot.db
+2025-04-27 20:18:59,404 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-27 20:18:59,405 - nemai_main - INFO - Starting bot...
+2025-04-27 20:19:03,017 - nemai_main - INFO - Logged in as Nemai#8548 (ID: 1353439140179607632)
+2025-04-27 20:19:03,018 - nemai_main - INFO - ------
+2025-04-27 20:19:03,036 - nemai_main - INFO - Commands registered successfully.
+2025-04-27 20:19:03,037 - nemai_main - INFO - Periodic maintenance task scheduled.
+2025-04-27 20:19:03,038 - nemai_main - INFO - Registered persistent FeedbackView.
+2025-04-27 20:19:03,043 - nemai_main - INFO - Periodic maintenance task started.
+2025-04-27 20:19:03,477 - nemai_main - INFO - Synced 19 global application commands.
+2025-04-27 20:19:03,478 - nemai_main - INFO - Feedback system enabled. New messages will have feedback buttons.
+2025-04-27 20:20:10,241 - nemai_main - INFO - Successfully sent text file analysis response for 'TECHNICAL_TASK_FOR_IT_OLYMPIAD.pdf' to user 1345047131278278827.
+2025-04-27 20:28:25,277 - nemai_main - INFO - Successfully sent text file analysis response for 'sample-essay-1.pdf' to user 1345047131278278827.
+2025-04-27 20:28:48,336 - nemai_main - INFO - Successfully sent text file analysis response for 'sample-essay-1.pdf' to user 1345047131278278827.
+2025-04-27 23:31:59,788 - nemai_main - INFO - Gemini AI models configured successfully.
+2025-04-27 23:32:00,486 - nemai_main - INFO - Transformers sentiment analysis pipeline initialized successfully.
+2025-04-27 23:32:00,486 - nemai_main - INFO - Reusing Sentence Transformer model from database module.
+2025-04-27 23:32:00,519 - database - INFO - Database tables setup or verified complete
+2025-04-27 23:32:00,519 - database - INFO - Successfully connected to database: nemai_bot.db
+2025-04-27 23:32:00,520 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-27 23:32:00,520 - nemai_main - INFO - Starting bot...
+2025-04-27 23:32:03,990 - nemai_main - INFO - Logged in as Nemai#8548 (ID: 1353439140179607632)
+2025-04-27 23:32:03,991 - nemai_main - INFO - ------
+2025-04-27 23:32:03,997 - nemai_main - INFO - Commands registered successfully.
+2025-04-27 23:32:03,998 - nemai_main - INFO - Periodic maintenance task scheduled.
+2025-04-27 23:32:03,998 - nemai_main - INFO - Registered persistent FeedbackView.
+2025-04-27 23:32:04,001 - nemai_main - INFO - Periodic maintenance task started.
+2025-04-27 23:32:04,458 - nemai_main - INFO - Synced 19 global application commands.
+2025-04-27 23:32:04,459 - nemai_main - INFO - Feedback system enabled. New messages will have feedback buttons.
+2025-04-27 23:32:05,335 - database - INFO - Reset all history for user 1345047131278278827, 11 messages deleted.
+2025-04-27 23:32:12,514 - nemai_main - INFO - Successfully sent 'chat' response to user 1345047131278278827
+2025-04-27 23:32:15,840 - nemai_main - INFO - Successfully sent 'chat' response to user 1345047131278278827
+2025-04-27 23:32:26,493 - nemai_main - INFO - Successfully sent 'chat' response to user 1345047131278278827
+2025-04-27 23:46:49,669 - nemai_main - INFO - Gemini AI models configured successfully.
+2025-04-27 23:46:50,392 - nemai_main - INFO - Transformers sentiment analysis pipeline initialized successfully.
+2025-04-27 23:46:50,392 - nemai_main - INFO - Reusing Sentence Transformer model from database module.
+2025-04-27 23:46:50,421 - database - INFO - Database tables setup or verified complete
+2025-04-27 23:46:50,422 - database - INFO - Successfully connected to database: nemai_bot.db
+2025-04-27 23:46:50,422 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-27 23:46:50,423 - nemai_main - INFO - Starting bot...
+2025-04-27 23:46:53,775 - nemai_main - INFO - Logged in as Nemai#8548 (ID: 1353439140179607632)
+2025-04-27 23:46:53,776 - nemai_main - INFO - ------
+2025-04-27 23:46:53,788 - nemai_main - INFO - Commands registered successfully.
+2025-04-27 23:46:53,788 - nemai_main - INFO - Periodic maintenance task scheduled.
+2025-04-27 23:46:53,790 - nemai_main - INFO - Registered persistent FeedbackView.
+2025-04-27 23:46:53,794 - nemai_main - INFO - Periodic maintenance task started.
+2025-04-27 23:46:54,314 - nemai_main - INFO - Synced 19 global application commands.
+2025-04-27 23:46:54,315 - nemai_main - INFO - Feedback system enabled. New messages will have feedback buttons.
+2025-04-27 23:46:58,584 - nemai_main - INFO - Successfully sent 'chat' response to user 1345047131278278827
+2025-04-27 23:47:01,753 - nemai_main - INFO - Successfully sent 'chat' response to user 1345047131278278827
+2025-04-27 23:47:24,596 - nemai_main - INFO - Successfully sent 'chat' response to user 1345047131278278827
+2025-04-27 23:47:49,058 - database - INFO - Reset all history for user 1345047131278278827, 12 messages deleted.
+2025-04-27 23:59:24,114 - nemai_main - INFO - Gemini AI models configured successfully.
+2025-04-27 23:59:24,757 - nemai_main - INFO - Transformers sentiment analysis pipeline initialized successfully.
+2025-04-27 23:59:24,757 - nemai_main - INFO - Reusing Sentence Transformer model from database module.
+2025-04-27 23:59:24,791 - database - INFO - Database tables setup or verified complete
+2025-04-27 23:59:24,791 - database - INFO - Successfully connected to database: nemai_bot.db
+2025-04-27 23:59:24,792 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-27 23:59:24,793 - nemai_main - INFO - Starting bot...
+2025-04-27 23:59:29,258 - nemai_main - INFO - Logged in as Nemai#8548 (ID: 1353439140179607632)
+2025-04-27 23:59:29,259 - nemai_main - INFO - ------
+2025-04-27 23:59:29,287 - nemai_main - INFO - Commands registered successfully.
+2025-04-27 23:59:29,288 - nemai_main - INFO - Periodic maintenance task scheduled.
+2025-04-27 23:59:29,290 - nemai_main - INFO - Registered persistent FeedbackView.
+2025-04-27 23:59:29,292 - nemai_main - INFO - Periodic maintenance task started.
+2025-04-27 23:59:29,685 - nemai_main - INFO - Synced 19 global application commands.
+2025-04-27 23:59:29,686 - nemai_main - INFO - Feedback system enabled. New messages will have feedback buttons.
+2025-04-27 23:59:39,054 - nemai_main - INFO - Successfully sent 'chat' response to user 1345047131278278827
+2025-04-27 23:59:48,526 - nemai_main - INFO - Successfully sent 'chat' response to user 1345047131278278827
+2025-04-27 23:59:59,080 - nemai_main - INFO - Successfully sent 'chat' response to user 1345047131278278827
+2025-04-28 00:00:20,073 - nemai_main - INFO - User 1345047131278278827 initiated web search for: 'egypt'
+2025-04-28 00:00:21,170 - primp - INFO - response: https://lite.duckduckgo.com/lite/ 200
+2025-04-28 00:00:22,802 - nemai_main - INFO - Successfully sent web search summary to user 1345047131278278827 for query: 'egypt'
+2025-04-28 00:00:32,296 - nemai_main - INFO - User 1345047131278278827 requested news for topic: 'Top world news headlines' (limit: 8)
+2025-04-28 00:00:32,763 - primp - INFO - response: https://duckduckgo.com/?q=Top+world+news+headlines 200
+2025-04-28 00:00:33,851 - primp - INFO - response: https://duckduckgo.com/news.js?l=wt-wt&o=json&noamp=1&q=Top+world+news+headlines&vqd=4-102678228962278231637953236058055047991&p=-2&df=d 200
+2025-04-28 00:00:35,463 - nemai_main - INFO - Successfully sent news summary to user 1345047131278278827 for query: 'Top world news headlines'
+2025-04-28 00:00:58,670 - database - INFO - Created new 'collaborative' story session 2 for user 1345047131278278827 (Genre: None).
+2025-04-28 00:02:05,728 - database - INFO - Ended story session 2.
+2025-04-28 21:08:14,925 - nemai_main - INFO - Gemini AI models configured successfully.
+2025-04-28 21:08:15,783 - nemai_main - INFO - Transformers sentiment analysis pipeline initialized successfully.
+2025-04-28 21:08:15,783 - nemai_main - INFO - Reusing Sentence Transformer model from database module.
+2025-04-28 21:08:15,826 - database - INFO - Database tables setup or verified complete
+2025-04-28 21:08:15,826 - database - INFO - Successfully connected to database: nemai_bot.db
+2025-04-28 21:08:15,828 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-28 21:08:15,830 - nemai_main - INFO - Starting bot...
+2025-04-28 21:08:19,444 - nemai_main - INFO - Logged in as Nemai#8548 (ID: 1353439140179607632)
+2025-04-28 21:08:19,445 - nemai_main - INFO - ------
+2025-04-28 21:08:19,467 - nemai_main - INFO - Commands registered successfully.
+2025-04-28 21:08:19,468 - nemai_main - INFO - Periodic maintenance task scheduled.
+2025-04-28 21:08:19,471 - nemai_main - INFO - Registered persistent FeedbackView.
+2025-04-28 21:08:19,477 - nemai_main - INFO - Periodic maintenance task started.
+2025-04-28 21:08:19,871 - nemai_main - INFO - Synced 19 global application commands.
+2025-04-28 21:08:19,872 - nemai_main - INFO - Feedback system enabled. New messages will have feedback buttons.
+2025-04-28 21:21:31,343 - nemai_main - INFO - Gemini AI models configured successfully.
+2025-04-28 21:21:32,323 - nemai_main - INFO - Transformers sentiment analysis pipeline initialized successfully.
+2025-04-28 21:21:32,324 - nemai_main - INFO - Reusing Sentence Transformer model from database module.
+2025-04-28 21:21:32,378 - database - INFO - Database tables setup or verified complete
+2025-04-28 21:21:32,380 - database - INFO - Successfully connected to database: nemai_bot.db
+2025-04-28 21:21:32,381 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-28 21:21:32,381 - nemai_main - INFO - Starting bot...
+2025-04-28 21:21:35,873 - nemai_main - INFO - Logged in as Nemai#8548 (ID: 1353439140179607632)
+2025-04-28 21:21:35,873 - nemai_main - INFO - ------
+2025-04-28 21:21:35,878 - nemai_main - INFO - Commands registered successfully.
+2025-04-28 21:21:35,878 - nemai_main - INFO - Periodic maintenance task scheduled.
+2025-04-28 21:21:35,879 - nemai_main - INFO - Registered persistent FeedbackView.
+2025-04-28 21:21:35,881 - nemai_main - INFO - Periodic maintenance task started.
+2025-04-28 21:21:36,205 - nemai_main - INFO - Synced 19 global application commands.
+2025-04-28 21:21:36,206 - nemai_main - INFO - Feedback system enabled. New messages will have feedback buttons.
+2025-04-28 21:23:29,654 - nemai_main - INFO - User 1345047131278278827 initiated fact-check for: 'cheetas are cats'
+2025-04-28 21:23:30,800 - primp - INFO - response: https://lite.duckduckgo.com/lite/ 200
+2025-04-28 21:23:33,540 - nemai_main - INFO - Successfully sent fact-check analysis to user 1345047131278278827 for statement: 'cheetas are cats'
+2025-04-28 21:36:24,326 - nemai_main - INFO - Gemini AI models configured successfully.
+2025-04-28 21:36:25,123 - nemai_main - INFO - Transformers sentiment analysis pipeline initialized successfully.
+2025-04-28 21:36:25,124 - nemai_main - INFO - Reusing Sentence Transformer model from database module.
+2025-04-28 21:36:25,157 - database - INFO - Database tables setup or verified complete
+2025-04-28 21:36:25,157 - database - INFO - Successfully connected to database: nemai_bot.db
+2025-04-28 21:36:25,158 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-28 21:36:25,160 - nemai_main - INFO - Starting bot...
+2025-04-28 21:36:28,576 - nemai_main - INFO - Logged in as Nemai#8548 (ID: 1353439140179607632)
+2025-04-28 21:36:28,579 - nemai_main - INFO - ------
+2025-04-28 21:36:28,597 - nemai_main - INFO - Commands registered successfully.
+2025-04-28 21:36:28,598 - nemai_main - INFO - Periodic maintenance task scheduled.
+2025-04-28 21:36:28,599 - nemai_main - INFO - Registered persistent FeedbackView.
+2025-04-28 21:36:28,603 - nemai_main - INFO - Periodic maintenance task started.
+2025-04-28 21:36:29,337 - nemai_main - INFO - Synced 21 global application commands.
+2025-04-28 21:36:29,337 - nemai_main - INFO - Feedback system enabled. New messages will have feedback buttons.
+2025-04-28 21:37:18,131 - nemai_main - INFO - User 1345047131278278827 initiated fact-check for: 'was hitler trying to be artisi?'
+2025-04-28 21:37:19,477 - primp - INFO - response: https://html.duckduckgo.com/html 200
+2025-04-28 21:37:21,897 - nemai_main - INFO - Successfully sent fact-check analysis to user 1345047131278278827 for statement: 'was hitler trying to be artisi?'
+2025-04-28 21:37:45,373 - nemai_main - INFO - User 1345047131278278827 initiated fact-check for: 'cats are animals'
+2025-04-28 21:37:46,588 - primp - INFO - response: https://html.duckduckgo.com/html 200
+2025-04-28 21:37:48,211 - nemai_main - INFO - Successfully sent fact-check analysis to user 1345047131278278827 for statement: 'cats are animals'
+2025-04-28 21:38:22,235 - nemai_main - INFO - User 1345047131278278827 initiated fact-check for: 'dogs are animals'
+2025-04-28 21:38:23,485 - primp - INFO - response: https://lite.duckduckgo.com/lite/ 200
+2025-04-28 21:38:25,215 - nemai_main - INFO - Successfully sent fact-check analysis to user 1345047131278278827 for statement: 'dogs are animals'
+2025-04-28 21:38:40,451 - database - INFO - Persona 'pirate' created in slot 1 for user 1345047131278278827.
+2025-04-28 21:38:45,328 - nemai_main - INFO - Successfully sent 'chat' response to user 1345047131278278827
+2025-04-28 21:39:00,607 - database - INFO - Persona 'pirate' in slot 1 activated for user 1345047131278278827.
+2025-04-28 21:39:07,221 - nemai_main - INFO - Successfully sent persona 'pirate' response to user 1345047131278278827
+2025-04-28 21:39:31,589 - database - INFO - Persona 'aaa' created in slot 2 for user 1345047131278278827.
+2025-04-28 21:39:38,812 - nemai_main - INFO - Successfully sent persona 'pirate' response to user 1345047131278278827
+2025-04-28 21:39:51,696 - database - INFO - Persona 'aaa' in slot 2 activated for user 1345047131278278827.
+2025-04-28 21:40:02,223 - nemai_main - INFO - Successfully sent persona 'aaa' response to user 1345047131278278827
+2025-04-28 21:40:08,975 - database - INFO - Feedback (positive) recorded for bot message 41 (related user msg: 40) by user 1345047131278278827.
+2025-04-28 21:40:42,222 - nemai_main - INFO - Gemini AI models configured successfully.
+2025-04-28 21:40:42,998 - nemai_main - INFO - Transformers sentiment analysis pipeline initialized successfully.
+2025-04-28 21:40:42,999 - nemai_main - INFO - Reusing Sentence Transformer model from database module.
+2025-04-28 21:40:43,030 - database - INFO - Database tables setup or verified complete
+2025-04-28 21:40:43,032 - database - INFO - Successfully connected to database: nemai_bot.db
+2025-04-28 21:40:43,033 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-28 21:40:43,033 - nemai_main - INFO - Starting bot...
+2025-04-28 21:40:46,442 - nemai_main - INFO - Logged in as Nemai#8548 (ID: 1353439140179607632)
+2025-04-28 21:40:46,443 - nemai_main - INFO - ------
+2025-04-28 21:40:46,458 - nemai_main - INFO - Commands registered successfully.
+2025-04-28 21:40:46,459 - nemai_main - INFO - Periodic maintenance task scheduled.
+2025-04-28 21:40:46,460 - nemai_main - INFO - Registered persistent FeedbackView.
+2025-04-28 21:40:46,464 - nemai_main - INFO - Periodic maintenance task started.
+2025-04-28 21:40:46,985 - nemai_main - INFO - Synced 21 global application commands.
+2025-04-28 21:40:46,985 - nemai_main - INFO - Feedback system enabled. New messages will have feedback buttons.
+2025-04-28 21:42:41,874 - nemai_main - INFO - User 1345047131278278827 requested summary for URL: 'https://edition.cnn.com/2025/04/28/europe/putin-announces-ceasefire-may-intl/index.html'
+2025-04-28 21:42:42,939 - primp - INFO - response: https://lite.duckduckgo.com/lite/ 200
+2025-04-28 21:42:43,957 - primp - INFO - response: https://lite.duckduckgo.com/lite/ 200
+2025-04-28 21:42:45,503 - nemai_main - INFO - Successfully sent summary to user 1345047131278278827 for url.
+2025-04-28 21:43:20,139 - nemai_main - INFO - User 1345047131278278827 requested recipe for: 'french toast'
+2025-04-28 21:43:21,220 - primp - INFO - response: https://lite.duckduckgo.com/lite/ 200
+2025-04-28 21:43:23,405 - nemai_main - INFO - Successfully sent recipe for 'french toast' to user 1345047131278278827
+2025-04-28 21:43:46,171 - nemai_main - INFO - User 1345047131278278827 requested recipe for: 'napoleon cake'
+2025-04-28 21:43:47,266 - primp - INFO - response: https://lite.duckduckgo.com/lite/ 200
+2025-04-28 21:43:49,413 - nemai_main - INFO - Successfully sent recipe for 'napoleon cake' to user 1345047131278278827
+2025-04-28 21:46:02,106 - nemai_main - INFO - Gemini AI models configured successfully.
+2025-04-28 21:46:02,729 - nemai_main - INFO - Transformers sentiment analysis pipeline initialized successfully.
+2025-04-28 21:46:02,729 - nemai_main - INFO - Reusing Sentence Transformer model from database module.
+2025-04-28 21:46:02,756 - database - INFO - Database tables setup or verified complete
+2025-04-28 21:46:02,756 - database - INFO - Successfully connected to database: nemai_bot.db
+2025-04-28 21:46:02,758 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-28 21:46:02,758 - nemai_main - INFO - Starting bot...
+2025-04-28 21:46:06,306 - nemai_main - INFO - Logged in as Nemai#8548 (ID: 1353439140179607632)
+2025-04-28 21:46:06,308 - nemai_main - INFO - ------
+2025-04-28 21:46:06,330 - nemai_main - INFO - Commands registered successfully.
+2025-04-28 21:46:06,332 - nemai_main - INFO - Periodic maintenance task scheduled.
+2025-04-28 21:46:06,334 - nemai_main - INFO - Registered persistent FeedbackView.
+2025-04-28 21:46:06,339 - nemai_main - INFO - Periodic maintenance task started.
+2025-04-28 21:46:06,700 - nemai_main - INFO - Synced 21 global application commands.
+2025-04-28 21:46:06,703 - nemai_main - INFO - Feedback system enabled. New messages will have feedback buttons.
+2025-04-28 21:46:10,410 - nemai_main - INFO - User 1345047131278278827 requested recipe for: 'napoleon cake'
+2025-04-28 21:46:11,516 - primp - INFO - response: https://html.duckduckgo.com/html 200
+2025-04-28 21:46:14,376 - nemai_main - INFO - Successfully sent recipe for 'napoleon cake' to user 1345047131278278827
+2025-04-29 00:28:57,748 - nemai_main - INFO - Gemini AI models configured successfully.
+2025-04-29 00:28:58,306 - nemai_main - INFO - Transformers sentiment analysis pipeline initialized successfully.
+2025-04-29 00:28:58,306 - nemai_main - INFO - Reusing Sentence Transformer model from database module.
+2025-04-29 00:28:58,337 - database - INFO - Database tables setup or verified complete
+2025-04-29 00:28:58,337 - database - INFO - Successfully connected to database: nemai_bot.db
+2025-04-29 00:28:58,338 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-29 00:28:58,338 - nemai_main - INFO - Starting bot...
+2025-04-29 00:29:01,944 - nemai_main - INFO - Logged in as Nemai#8548 (ID: 1353439140179607632)
+2025-04-29 00:29:01,944 - nemai_main - INFO - ------
+2025-04-29 00:29:01,955 - nemai_main - INFO - Commands registered successfully.
+2025-04-29 00:29:01,955 - nemai_main - INFO - Periodic maintenance task scheduled.
+2025-04-29 00:29:01,956 - nemai_main - INFO - Registered persistent FeedbackView.
+2025-04-29 00:29:01,959 - nemai_main - INFO - Periodic maintenance task started.
+2025-04-29 00:29:02,329 - nemai_main - INFO - Synced 22 global application commands.
+2025-04-29 00:29:02,332 - nemai_main - INFO - Feedback system enabled. New messages will have feedback buttons.
+2025-04-29 00:29:27,496 - nemai_main - INFO - Gemini AI models configured successfully.
+2025-04-29 00:29:28,187 - nemai_main - INFO - Transformers sentiment analysis pipeline initialized successfully.
+2025-04-29 00:29:28,189 - nemai_main - INFO - Reusing Sentence Transformer model from database module.
+2025-04-29 00:29:28,207 - database - INFO - Database tables setup or verified complete
+2025-04-29 00:29:28,207 - database - INFO - Successfully connected to database: nemai_bot.db
+2025-04-29 00:29:28,207 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-29 00:29:28,209 - nemai_main - INFO - Starting bot...
+2025-04-29 00:29:31,567 - nemai_main - INFO - Logged in as Nemai#8548 (ID: 1353439140179607632)
+2025-04-29 00:29:31,567 - nemai_main - INFO - ------
+2025-04-29 00:29:31,573 - nemai_main - INFO - Commands registered successfully.
+2025-04-29 00:29:31,573 - nemai_main - INFO - Periodic maintenance task scheduled.
+2025-04-29 00:29:31,574 - nemai_main - INFO - Registered persistent FeedbackView.
+2025-04-29 00:29:31,575 - nemai_main - INFO - Periodic maintenance task started.
+2025-04-29 00:30:02,322 - nemai_main - INFO - Synced 22 global application commands.
+2025-04-29 00:30:02,323 - nemai_main - INFO - Feedback system enabled. New messages will have feedback buttons.
+2025-04-29 00:30:03,944 - nemai_main - INFO - Successfully sent 'chat' response to user 1345047131278278827
+2025-04-29 00:30:11,110 - nemai_main - INFO - User 1345047131278278827 initiated image generation with prompt: 'desert...'
+2025-04-29 00:30:24,672 - nemai_main - INFO - Successfully sent generated image for prompt 'desert...' to user 1345047131278278827
+2025-04-29 00:46:51,883 - nemai_main - INFO - Gemini AI models configured successfully.
+2025-04-29 00:46:52,396 - nemai_main - INFO - Transformers sentiment analysis pipeline initialized successfully.
+2025-04-29 00:46:52,396 - nemai_main - INFO - Reusing Sentence Transformer model from database module.
+2025-04-29 00:46:52,420 - database - INFO - Database tables setup or verified complete
+2025-04-29 00:46:52,420 - database - INFO - Successfully connected to database: nemai_bot.db
+2025-04-29 00:46:52,420 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-29 00:46:52,421 - nemai_main - INFO - Starting bot...
+2025-04-29 00:46:55,824 - nemai_main - INFO - Logged in as Nemai#8548 (ID: 1353439140179607632)
+2025-04-29 00:46:55,825 - nemai_main - INFO - ------
+2025-04-29 00:46:55,842 - nemai_main - INFO - Commands registered successfully.
+2025-04-29 00:46:55,843 - nemai_main - INFO - Periodic maintenance task scheduled.
+2025-04-29 00:46:55,844 - nemai_main - INFO - Registered persistent FeedbackView.
+2025-04-29 00:46:55,848 - nemai_main - INFO - Periodic maintenance task started.
+2025-04-29 00:46:56,330 - nemai_main - INFO - Synced 22 global application commands.
+2025-04-29 00:46:56,330 - nemai_main - INFO - Feedback system enabled. New messages will have feedback buttons.
+2025-04-29 00:47:07,589 - nemai_main - INFO - Successfully classified input 'DEFINE photosynthesis...' as: {'classification': 'definition', 'parameters': {'topic': 'Photosynthesis'}}
+2025-04-29 00:47:08,765 - nemai_main - INFO - Successfully sent 'chat' response to user 1345047131278278827
+2025-04-29 00:47:12,193 - database - INFO - Feedback (negative) recorded for bot message 45 (related user msg: 44) by user 1345047131278278827.
+2025-04-29 12:29:49,041 - nemai_main - INFO - Gemini AI models configured successfully.
+2025-04-29 12:29:49,644 - nemai_main - INFO - Transformers sentiment analysis pipeline initialized successfully.
+2025-04-29 12:29:49,644 - nemai_main - INFO - Reusing Sentence Transformer model from database module.
+2025-04-29 12:29:49,680 - database - INFO - Database tables setup or verified complete
+2025-04-29 12:29:49,681 - database - INFO - Successfully connected to database: nemai_bot.db
+2025-04-29 12:29:49,681 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-29 12:29:49,682 - nemai_main - INFO - Starting bot...
+2025-04-29 12:29:53,105 - nemai_main - INFO - Logged in as Nemai#8548 (ID: 1353439140179607632)
+2025-04-29 12:29:53,106 - nemai_main - INFO - ------
+2025-04-29 12:29:53,113 - nemai_main - INFO - Commands registered successfully.
+2025-04-29 12:29:53,113 - nemai_main - INFO - Periodic maintenance task scheduled.
+2025-04-29 12:29:53,115 - nemai_main - INFO - Registered persistent FeedbackView.
+2025-04-29 12:29:53,116 - nemai_main - INFO - Periodic maintenance task started.
+2025-04-29 12:29:53,734 - nemai_main - INFO - Synced 22 global application commands.
+2025-04-29 12:29:53,734 - nemai_main - INFO - Feedback system enabled. New messages will have feedback buttons.
+2025-04-29 12:29:59,512 - database - INFO - Created new 'choose_your_own' story session 3 for user 1345047131278278827 (Genre: sci-fi).
+2025-04-29 12:30:32,697 - nemai_main - INFO - Gemini AI models configured successfully.
+2025-04-29 12:30:33,355 - nemai_main - INFO - Transformers sentiment analysis pipeline initialized successfully.
+2025-04-29 12:30:33,356 - nemai_main - INFO - Reusing Sentence Transformer model from database module.
+2025-04-29 12:30:33,398 - database - INFO - Database tables setup or verified complete
+2025-04-29 12:30:33,398 - database - INFO - Successfully connected to database: nemai_bot.db
+2025-04-29 12:30:33,399 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-29 12:30:33,399 - nemai_main - INFO - Starting bot...
+2025-04-29 12:30:36,787 - nemai_main - INFO - Logged in as Nemai#8548 (ID: 1353439140179607632)
+2025-04-29 12:30:36,788 - nemai_main - INFO - ------
+2025-04-29 12:30:36,793 - nemai_main - INFO - Commands registered successfully.
+2025-04-29 12:30:36,793 - nemai_main - INFO - Periodic maintenance task scheduled.
+2025-04-29 12:30:36,794 - nemai_main - INFO - Registered persistent FeedbackView.
+2025-04-29 12:30:36,795 - nemai_main - INFO - Periodic maintenance task started.
+2025-04-29 12:30:37,136 - nemai_main - INFO - Synced 22 global application commands.
+2025-04-29 12:30:37,137 - nemai_main - INFO - Feedback system enabled. New messages will have feedback buttons.
+2025-04-29 13:35:06,458 - nemai_main - INFO - Gemini AI models configured successfully.
+2025-04-29 13:35:06,978 - nemai_main - INFO - Transformers sentiment analysis pipeline initialized successfully.
+2025-04-29 13:35:06,978 - nemai_main - INFO - Reusing Sentence Transformer model from database module.
+2025-04-29 13:35:07,009 - database - INFO - Database tables setup or verified complete
+2025-04-29 13:35:07,009 - database - INFO - Successfully connected to database: nemai_bot.db
+2025-04-29 13:35:07,009 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-29 13:35:07,010 - nemai_main - INFO - Starting bot...
+2025-04-29 13:35:10,731 - nemai_main - INFO - Logged in as Nemai#8548 (ID: 1353439140179607632)
+2025-04-29 13:35:10,731 - nemai_main - INFO - ------
+2025-04-29 13:35:10,738 - nemai_main - INFO - Commands registered successfully.
+2025-04-29 13:35:10,738 - nemai_main - INFO - Periodic maintenance task scheduled.
+2025-04-29 13:35:10,739 - nemai_main - INFO - Registered persistent FeedbackView.
+2025-04-29 13:35:10,740 - nemai_main - INFO - Periodic maintenance task started.
+2025-04-29 13:35:11,186 - nemai_main - INFO - Synced 22 global application commands.
+2025-04-29 13:35:11,186 - nemai_main - INFO - Feedback system enabled. New messages will have feedback buttons.
+2025-04-29 13:35:13,435 - nemai_main - INFO - User 1345047131278278827 initiated image generation with prompt: 'desert...'
+2025-04-29 13:35:13,762 - nemai_main - ERROR - Hugging Face API request failed with status 404. Response: Not Found. Prompt: 'desert...'
+2025-04-29 13:35:20,432 - nemai_main - INFO - Ensuring database connection is closed in final cleanup.
+2025-04-29 13:35:20,451 - database - INFO - Database connection closed
+2025-04-29 13:35:20,452 - nemai_main - INFO - Bot process finished.
+2025-04-29 16:59:58,104 - nemai_main - INFO - Gemini AI models configured successfully.
+2025-04-29 16:59:59,221 - nemai_main - INFO - Transformers sentiment analysis pipeline initialized successfully.
+2025-04-29 16:59:59,222 - nemai_main - INFO - Reusing Sentence Transformer model from database module.
+2025-04-29 16:59:59,235 - database - INFO - Database tables setup or verified complete
+2025-04-29 16:59:59,235 - database - INFO - Successfully connected to database: nemai_bot.db
+2025-04-29 16:59:59,237 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-29 16:59:59,238 - nemai_main - INFO - Starting bot...
+2025-04-29 17:00:02,824 - nemai_main - INFO - Logged in as Nemai#8548 (ID: 1353439140179607632)
+2025-04-29 17:00:02,825 - nemai_main - INFO - ------
+2025-04-29 17:00:02,839 - nemai_main - INFO - Commands registered successfully.
+2025-04-29 17:00:02,841 - nemai_main - INFO - Periodic maintenance task scheduled.
+2025-04-29 17:00:02,843 - nemai_main - INFO - Registered persistent FeedbackView.
+2025-04-29 17:00:02,845 - nemai_main - INFO - Periodic maintenance task started.
+2025-04-29 17:00:03,492 - nemai_main - INFO - Synced 22 global application commands.
+2025-04-29 17:00:03,493 - nemai_main - INFO - Feedback system enabled. New messages will have feedback buttons.
+2025-04-29 17:00:16,698 - nemai_main - INFO - Successfully classified input 'hi...' as: {'classification': 'general', 'parameters': {}}
+2025-04-29 17:00:18,440 - nemai_main - INFO - Successfully sent 'chat' response to user 1345047131278278827
+2025-04-29 17:00:30,752 - database - INFO - Reset all history for user 1345047131278278827, 28 messages deleted.
+2025-04-29 17:00:34,821 - nemai_main - INFO - Successfully classified input 'hru...' as: {'classification': 'general', 'parameters': {}}
+2025-04-29 17:00:35,857 - nemai_main - INFO - Successfully sent 'chat' response to user 1345047131278278827
+2025-04-29 17:00:42,002 - nemai_main - INFO - Successfully classified input 'im fine...' as: {'classification': 'general', 'parameters': {}}
+2025-04-29 17:00:43,014 - nemai_main - INFO - Successfully sent 'chat' response to user 1345047131278278827
+2025-04-29 17:00:53,138 - nemai_main - INFO - Successfully classified input 'i just wanna chat...' as: {'classification': 'general', 'parameters': {}}
+2025-04-29 17:00:54,074 - nemai_main - INFO - Successfully sent 'chat' response to user 1345047131278278827
+2025-04-29 17:00:58,790 - database - INFO - Reset all history for user 1345047131278278827, 6 messages deleted.
+2025-04-29 17:01:03,598 - nemai_main - INFO - Successfully sent 'sherlock' response to user 1345047131278278827
+2025-04-29 17:01:17,220 - nemai_main - INFO - Successfully classified input 'what do you mean by that...' as: {'classification': 'general', 'parameters': {}}
+2025-04-29 17:01:18,287 - nemai_main - INFO - Successfully sent 'chat' response to user 1345047131278278827
+2025-04-29 17:01:32,167 - nemai_main - INFO - Successfully sent 'sherlock' response to user 1345047131278278827
+2025-04-29 17:01:45,992 - nemai_main - INFO - Successfully classified input 'hi...' as: {'classification': 'general', 'parameters': {}}
+2025-04-29 17:01:47,210 - nemai_main - INFO - Successfully sent 'teacher' response to user 1345047131278278827
+2025-04-29 17:02:04,459 - nemai_main - INFO - Successfully classified input 'hi...' as: {'classification': 'general', 'parameters': {}}
+2025-04-29 17:02:05,560 - nemai_main - INFO - Successfully sent 'scientist' response to user 1345047131278278827
+2025-04-29 17:02:39,716 - nemai_main - INFO - Successfully sent image analysis response for 'ChatGPT_Image_Apr_29_2025_12_48_58_AM.png' to user 1345047131278278827.
+2025-04-29 17:03:18,156 - database - INFO - Created new 'collaborative' story session 4 for user 1345047131278278827 (Genre: None).
+2025-04-29 17:03:37,988 - nemai_main - INFO - User 1345047131278278827 initiated image generation with prompt: 'desert...'
+2025-04-29 17:04:00,344 - nemai_main - INFO - Successfully sent generated image for prompt 'desert...' to user 1345047131278278827
+2025-04-29 17:04:26,762 - primp - INFO - response: https://html.duckduckgo.com/html 200
+2025-04-29 17:04:48,065 - database - INFO - Feedback (negative) recorded for bot message 65 (related user msg: 64) by user 1345047131278278827.
+2025-04-29 17:05:24,241 - database - INFO - Ended story session 4.
+2025-04-29 17:05:24,241 - nemai_main - INFO - Ended previous active story session 4 for user 1345047131278278827 before starting new one.
+2025-04-29 17:05:24,719 - database - INFO - Created new 'choose_your_own' story session 5 for user 1345047131278278827 (Genre: sci-fi).
+2025-04-29 17:06:43,188 - database - INFO - Ended story session 5.
+2025-04-29 17:07:09,092 - nemai_main - INFO - User 1345047131278278827 initiated web search for: 'news'
+2025-04-29 17:07:11,012 - primp - INFO - response: https://html.duckduckgo.com/html 200
+2025-04-29 17:07:12,252 - nemai_main - INFO - Successfully sent web search summary to user 1345047131278278827 for query: 'news'
