@@ -87,25 +87,41 @@ Nemai is a versatile, AI-powered Discord bot designed to enhance server engageme
 
 ```mermaid
 graph TD
-    A[Discord Client] --> B[Command Router]
-    B --> C[AI Processing]
-    C --> D[Gemini 2.0 Flash]
-    C --> E[Hugging Face Models]
-    B --> F[Database Layer]
-    F --> G[SQLite Database]
-    B --> H[Search & Utilities]
-    H --> I[DuckDuckGo Search]
-    H --> J[Document Processing]
-    E --> K[Image Generation]
-    E --> L[Sentiment Analysis]
-    F --> M[User Data<br>Personas<br>History<br>Preferences]
-    D --> N[Response Generation]
-    J --> O[PDF/DOCX/TXT<br>Analysis]
-    K --> P[Stable Diffusion<br>via HF API]
-    I --> Q[Web Search<br>Results]
-    N --> R[Response Formatter]
-    R --> S[Discord Embed<br>Pagination]
-    S --> A
+    A[User via Discord] --> B[Nemai Bot: Discord Client]
+    B --> C{Command Router / Initial Processing}
+
+    subgraph Core Logic
+        C --> D[AI Task Routing]
+        C --> E[Database Operations]
+        C --> F[Utility & Search Tasks]
+    end
+
+    subgraph External AI Services
+        D --> G["Gemini Models <br/>(Chat, Persona, Vision, Debate)"]
+        D --> H["Hugging Face <br/>(Sentiment, Image Gen API)"]
+    end
+
+    subgraph Data Store
+        E --> I["SQLite Database <br/>(History, Personas, Stats, Embeddings, Prefs)"]
+    end
+
+    subgraph External Utilities
+        F --> J[DuckDuckGo Search API]
+        F --> K[File Processing <br/>PDF, DOCX, etc.]
+    end
+
+    %% Results feed into Response Formatting
+    G --> L["Response Formatting <br/>Embeds & Pagination"]
+    H --> L
+    I --> L
+
+    %% Utilities context flow
+    J -->|Provides Context| G
+    K -->|Provides Context| G
+
+    %% Final response path
+    L --> B
+    B --> A
 ```
 
 ### 🔄 Command Processing Flow Example (`/chat`)
