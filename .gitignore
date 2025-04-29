@@ -15,6 +15,9 @@ wheels/
 # IDE cache/metadata (PyCharm example)
 .idea/
 
+# VS Code Code Runner temporary file
+tempCodeRunnerFile.py
+
 # Temporary files created by some tools or editors
 *~
 *.swp
