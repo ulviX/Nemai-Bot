@@ -47,7 +47,7 @@ MAX_PERSONAS = 5 # Maximum number of custom personas a user can create
 VALID_CONVERSATION_TYPES = ["chat", "sherlock", "teacher", "scientist", "persona", "doc_assist", "recommend", "story"]
 PRUNE_DAYS = 30 # Number of days after which old conversation history will be pruned
 BACKUP_DIR = "backups" # Directory to store database backups
-RESETTABLE_CONVERSATION_TYPES = ["chat", "sherlock", "teacher", "scientist", "persona"] # Conversation types that can be reset
+
 # --- History and Interaction Limits ---
 HISTORY_LIMIT_DEFAULT = 20 # Default number of messages included in standard history context
 RELEVANT_HISTORY_LIMIT_DEFAULT = 10 # Default number of messages to retrieve for relevant history context
