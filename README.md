@@ -87,32 +87,41 @@ Nemai is a versatile, AI-powered Discord bot designed to enhance server engageme
 
 ```mermaid
 graph TD
-    User -->|Sends Command/Message| DiscordAPI[Discord API]
-    DiscordAPI -->|Forwards Interaction| BotCore[Bot Core Logic]
+    A[User via Discord] --> B[Nemai Bot: Discord Client]
+    B --> C{Command Router / Initial Processing}
 
-    subgraph Bot Internal Components
-        BotCore -->|Reads Settings| Config[Configuration]
-        BotCore -->|Requests Task| AI_Models[AI Models - Gemini/Transformers]
-        BotCore -->|Stores/Retrieves Data| Database[Database - History, Personas, Feedback]
-        BotCore -->|Fetches External Info| ExternalServices[External Services - Search, Image Gen]
-        BotCore -->|Formats Response| ResponseFormatter[Response Formatting - Paginator, Buttons]
+    subgraph Core Logic
+        C --> D[AI Task Routing]
+        C --> E[Database Operations]
+        C --> F[Utility & Search Tasks]
     end
 
-    subgraph External Dependencies
-        AI_Models -->|Uses API| GoogleAI_API[Google AI API]
-        AI_Models -->|Uses API| HuggingFace_Models[HuggingFace Models]
-        Database -->|Uses| EmbeddingsModel[Sentence Embedding Model]
-        ExternalServices -->|Uses APIs| DuckDuckGo[DuckDuckGo API]
-        ExternalServices -->|Uses APIs| HuggingFace_Inference[HuggingFace Inference API]
+    subgraph External AI Services
+        D --> G["Gemini Models <br/>(Chat, Persona, Vision, Debate)"]
+        D --> H["Hugging Face <br/>(Sentiment, Image Gen API)"]
     end
 
-    ResponseFormatter -->|Sends Formatted Output| DiscordAPI
-    BotCore -->|Sends Direct Response| DiscordAPI
-    DiscordAPI -->|Displays to User| User
+    subgraph Data Store
+        E --> I["SQLite Database <br/>(History, Personas, Stats, Embeddings, Prefs)"]
+    end
 
-    Database --> BotCore
-    AI_Models --> BotCore
-    ExternalServices --> BotCore
+    subgraph External Utilities
+        F --> J[DuckDuckGo Search API]
+        F --> K[File Processing <br/>PDF, DOCX, etc.]
+    end
+
+    %% Results feed into Response Formatting
+    G --> L["Response Formatting <br/>Embeds & Pagination"]
+    H --> L
+    I --> L
+
+    %% Utilities context flow
+    J -->|Provides Context| G
+    K -->|Provides Context| G
+
+    %% Final response path
+    L --> B
+    B --> A
 ```
 
 ### 🔄 Command Processing Flow Example (`/chat`)
