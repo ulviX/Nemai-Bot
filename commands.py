@@ -3965,7 +3965,7 @@ def setup_commands(
     # Dynamically create choices from VALID_CONVERSATION_TYPES in config
     @app_commands.choices(conversation_type=[
         app_commands.Choice(name="All Conversations", value="all"),
-        *[app_commands.Choice(name=f"{ctype.capitalize()}", value=ctype) for ctype in config.RESETTABLE_CONVERSATION_TYPES]
+        *[app_commands.Choice(name=f"{ctype.capitalize()}", value=ctype) for ctype in config.VALID_CONVERSATION_TYPES]
     ])
     @app_commands.describe(conversation_type="Choose which conversation history to reset.")
     async def reset_command_reg(interaction: discord.Interaction, conversation_type: str):
